@@ -1,0 +1,4 @@
+POUND_TO_KG = 0.45
+OUNCE_TO_G = 28.35
+
+
