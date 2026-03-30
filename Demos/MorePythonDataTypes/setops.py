@@ -19,6 +19,7 @@ print("%s" % (s1 - s2 - s3)) # {'SG'}
 print("%s" % (s1.symmetric_difference(s2))) # {'AU', 'SG'}
 print("%s" % (s1 ^ s2)) # {'AU', 'SG'}
 
+print("*"*20)
 
 s1 = {"GB", "US", "SG"}
 s2 = {"GB", "US", "AU"}
